@@ -1,0 +1,6 @@
+[submodule "extensions/PluggableAuth"]
+	path = extensions/PluggableAuth
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/PluggableAuth
+[submodule "extensions/OpenIDConnect"]
+	path = extensions/OpenIDConnect
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/OpenIDConnect
